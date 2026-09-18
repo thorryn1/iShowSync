@@ -4,8 +4,8 @@ export default function() {
 
     video.id = "ishowsync-video";
 
-    video.src =
-        "https://raw.githubusercontent.com/thorryn1/iShowSync/main/assets/ishow/iShowSpeed.webm";
+   video.src =
+    "https://raw.githubusercontent.com/thorryn1/iShowSync/main/assets/ishow/iShowSpeed_fixed.webm";
 
     video.autoplay = true;
     video.loop = true;
